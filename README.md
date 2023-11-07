@@ -1,5 +1,7 @@
 # Jogo do Número Secreto em JavaScript
 
+<img src="Thumbnail-jogo-do-numero-secreto.png">
+
 Este é um jogo de adivinhação de números onde o jogador tenta adivinhar um número secreto entre 1 e 100. Abaixo está uma explicação de como o código está estruturado:
 
 ## Estrutura HTML
