@@ -2,7 +2,11 @@
 
 <img src="Thumbnail-jogo-do-numero-secreto.png">
 
-Este é um jogo de adivinhação de números onde o jogador tenta adivinhar um número secreto entre 1 e 100. Abaixo está uma explicação de como o código está estruturado:
+Projeto desenvolvido no Curso de Lógica de programação, fornecido pela Alura.
+
+Este é um jogo de adivinhação de números onde o jogador tenta adivinhar um número secreto entre 1 e 100. 
+
+Abaixo está uma explicação de como o código está estruturado:
 
 ## Estrutura HTML
 - A estrutura HTML define a interface do jogo, com elementos como um campo de entrada para o chute, botões para verificar o chute e reiniciar o jogo, e áreas para exibir mensagens.
